@@ -1,7 +1,6 @@
 #include <iostream>
 #include <algorithm>
 #include <vector>
-#include <bits/stdc++.h>
 #include "boxing/BoxMachine.h"
 
 int main() {
