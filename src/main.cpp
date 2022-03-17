@@ -17,4 +17,5 @@ int main() {
     std::sort(cut_quickly.begin(), cut_quickly.end());
 
     packSequence(cut_quickly, size_of_seq);
+    unpackSequence();
 }
